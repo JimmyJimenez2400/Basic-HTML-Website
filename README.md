@@ -20,3 +20,4 @@ Key requirements for this project:
    git clone https://github.com/JimmyJimenez2400/Basic-HTML-Website.git
 
 ## Result:
+![alt text](image.png)
